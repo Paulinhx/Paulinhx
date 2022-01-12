@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulinhx
 - 👀 I’m interested in Art, Ecology, Surf and Blockchain
-- 🌱 I’m currently learning at DCI to be an UX / UI Designer & Web Dev
+- 🌱 I’m currently learning at DCI to be an UX / UI Designer & Software engineer
 - 💞️ I’m looking to collaborate on ecologic IT system
 
 
