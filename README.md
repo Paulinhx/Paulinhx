@@ -1,7 +1,11 @@
+![screen-github-paulinhx](https://user-images.githubusercontent.com/90310689/174987738-bc3fc5ac-118e-46a2-9781-44c4d8f8b7ab.png)
+
 - 👋 Hi, I’m @Paulinhx
-- 👀 I’m interested in Art, Ecology, Surf and Blockchain
-- 🌱 I’m currently learning at DCI to be an UX / UI Designer & Software engineer
-- 💞️ I’m looking to collaborate on ecologic IT system
+- 👀 I’m passionated about Design, Full Stack Web Dev Art, Ecology, Surf and Blockchain!
+- 🌱 I’m currently a student at DCI to be an UX / UI Designer & Software engineer
+
+
+
 
 
 <!---
