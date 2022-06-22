@@ -1,8 +1,6 @@
-![screen-github-paulinhx](https://user-images.githubusercontent.com/90310689/174987738-bc3fc5ac-118e-46a2-9781-44c4d8f8b7ab.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hello%2C+my+name+is+Paul+aka+Paulinhx.;I+%E2%9D%A4%EF%B8%8F+Frontend+Development+!)](https://git.io/typing-svg)
 
-
+![screen-github-paulinhx](https://user-images.githubusercontent.com/90310689/174987738-bc3fc5ac-118e-46a2-9781-44c4d8f8b7ab.png)
 
 :v: I’m passionate about Music, Fullstack Web Dev Art, Surf and Blockchain 
 
