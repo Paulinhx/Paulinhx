@@ -2,11 +2,11 @@
 
 ![screen-github-paulinhx](https://user-images.githubusercontent.com/90310689/174987738-bc3fc5ac-118e-46a2-9781-44c4d8f8b7ab.png)
 
-:v:  I’m passionate about Music, Fullstack Web Dev Art, Surf and Blockchain 
+:v: Passionate about Nature, Music, Sustainable Tech, Web3 and DeFi!
 
-:computer:  I’m currently a student at Digital Career Institute in Germany
+:computer:  Currently a Fullstack Webdev student at the Digital Career Institute in Germany
 
-:whale2:  Deep diving into UX/UI Design & Full Stack Software Engineering
+:whale2: Deep diving into UX/UI Design & Full Stack Software Engineering
 
 
 ## :space_invader: My Favorite Tech Stacks 	
