@@ -2,11 +2,11 @@
 
 ![screen-github-paulinhx](https://user-images.githubusercontent.com/90310689/174987738-bc3fc5ac-118e-46a2-9781-44c4d8f8b7ab.png)
 
-:v: Passionate about Nature, Music, Sustainable Tech, Web3 and DeFi!
+:v: Passionate about Nature, Music, Sustainable Tech, and Web3
 
-:computer:  Currently a Fullstack Webdev student at the Digital Career Institute in Germany
+:computer: Freshly Graduated Fullstack Webdeveloper specialized in MERN Stack
 
-:whale2: Deep diving into UX/UI Design & Full Stack Software Engineering
+:whale2: I am into UX/UI Design & Full Stack Software Engineering
 
 
 ## :space_invader: My Favorite Tech Stacks 	
@@ -46,7 +46,7 @@
 ### Software and tools
 
 <p>
-       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
@@ -55,15 +55,9 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Figma"src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-"></a>
-<a href="#"><img alt="Canva"src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
-"></a>
+<a href="#"><img alt="Figma"src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Canva"src="https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img alt="Krita"src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B
-"></a>
-<a href="#"><img alt="Free Code Camp"src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
-"></a>
 </p>
 
 
