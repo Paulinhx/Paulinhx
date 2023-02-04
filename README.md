@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hello%2C+my+name+is+Paul+aka+Paulinhx.;I+Design+and+Code+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul+aka+Paulinhx.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
 ![linkedinhyle2](https://user-images.githubusercontent.com/90310689/216765172-b4527e00-3b50-443f-a4a0-49f977c0e556.png)
 
