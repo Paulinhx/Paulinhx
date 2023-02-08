@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge, like my 97 years old grandmother or my 8 years old nephew!
 
-- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology and Sustainability and Music**
+- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability and Music**
 
 - 📫 How to reach me **Paul@hylematiere.com**
 
