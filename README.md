@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx)
 
-- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Ecology**
+- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology and sustainability**
 
 - 📫 How to reach me **Paul@hylematiere.com**
 
