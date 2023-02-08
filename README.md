@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paulinhx.github.io/](https://paulinhx.github.io/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for someone with limited technical knowledge, like my 97 years old grandmother or my 8 years old niece ." 
 
 - 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology and sustainability**
 
