@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paulinhx.github.io/](https://paulinhx.github.io/)
 
-- 📝 I regularly write articles on [https://hylesubtle-blog-blog.tumblr.com/](https://hylesubtle-blog-blog.tumblr.com/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx))
 
 - 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Ecology**
 
