@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate **with creatives and developers**
 
-- 🤝 I’m looking for funds to develop further our open source Team Project WebApp helping refugees find easily local help with housing and social support at [Hope2Hand](https://github.com/hope2handteam)
+- 🤝 I’m looking for funds to develop further our Team Project WebApp helping refugees find easily local help with housing and social support at [Hope2Hand](https://github.com/hope2handteam)
 
 - 👨‍💻 All of my projects are available at [https://paulinhx.github.io/](https://paulinhx.github.io/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for someone with limited technical knowledge, like my 97 years old grandmother or my 8 years old niece ." 
+- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge, like my 97 years old grandmother or my 8 years old nephew!
 
 - 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology and sustainability**
 
