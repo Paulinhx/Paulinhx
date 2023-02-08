@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Redux, Next.js, Django and Locofy.ai**
 
-- 👯 I’m looking to collaborate on **with creatives and developers**
+- 👯 I’m looking to collaborate **with creatives and developers**
 
 - 🤝 I’m looking for funds with [Hope2Hand](https://github.com/hope2handteam)
 
