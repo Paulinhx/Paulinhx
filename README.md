@@ -35,8 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulinhx&show_icons=true&locale=en&layout=compact" alt="paulinhx" /></p>
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 
 
 
