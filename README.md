@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul+aka+Paulinhx.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
-![linkedinhyle2](https://user-images.githubusercontent.com/90310689/216765172-b4527e00-3b50-443f-a4a0-49f977c0e556.png)
 
-<h3 align="center">Product Designer & Web Developer | into UI/UX-Prototyping & Front End | Expert in Sustainable Construction | Passionate about Nature & Design | Art Direction & Music</h3>
+<h3 align="center"> Cybersecurity Student @Masterschool, Sustainable Product Designer & Web Developer | into UI/UX-Prototyping & Front End | Expert in Sustainable Construction | Passionate about Nature & Design | Art Direction & Music</h3>
 
-- 🔭 I’m working on **my portfolio**
+- 🔭 I’m working on **my portfolios**
 
-- 🌱 I’m currently learning **React Redux, Next.js, Django and Locofy.ai**
+- 🌱 I’m currently learning ** Ethical Hacking, and I am achieving the Google IT Suppport Graduation, I really like using tools like Locofy.ai to design websites and apps**
 
-- 👯 I’m looking to collaborate **with creatives and developers**
+- 👯 I’m eager to collaborate **with creatives and developers**
 
 - 🤝 I’m looking for funds to develop further our Team Project WebApp helping refugees find easily local help with housing and social support at [Hope2Hand](https://github.com/hope2handteam)
 
@@ -16,10 +15,10 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge.
 
-- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability and Music**
+- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability,Ethical Hacking and Music**
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/paulinhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/paulinhx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulinhx-desbats-hylematiere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulinhx-desbats-hylematiere/" height="30" width="40" /></a>
