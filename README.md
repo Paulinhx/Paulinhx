@@ -3,7 +3,7 @@
 
 <h3 align="center"> Currently Cybersecurity Analyst Student @Masterschool | Sustainable Product Designer & Web Developer | into UI/UX-Prototyping | Expert in Sustainable Construction | Passionate about Nature & Design | Art Direction & Music</h3>
 
-- 🔭 I’m working on my **Certifications**
+- 🔭 I’m working on my **Certifications and learning Python**
 
 - 🌱 I’m currently learning **Ethical Hacking, and I am achieving the Google IT Suppport Graduation, I really like using tools like Locofy.ai to design websites and apps**
 
