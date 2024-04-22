@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul+aka+Paulinhx.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
 
-<h3 align="center"> Currently Cybersecurity Analyst Student @Masterschool | Sustainable Product Designer & Web Developer | into UI/UX-Prototyping | Expert in Sustainable Construction | Passionate about Nature & Design | Art Direction & Music</h3>
+<h3 align="center"> Currently Cybersecurity Analyst Student @Masterschool 
+| Sustainable Product Designer & Web Developer | into UI/UX-Prototyping | Expert in Sustainable Construction | Passionate about Nature & Design | Art Direction & Music</h3>
 
-- 🔭 I’m working on **certifications and learning Python**
+- 🔭 I’m working on **Google IT Support Certification**
 
-- 🌱 I’m currently learning **Ethical Hacking, and I am achieving the Google IT Suppport Graduation, I really like using tools like Locofy.ai to design websites and apps**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 🕹 I’m eager to collaborate **with creatives and developers**
 
@@ -15,7 +16,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge.
 
-- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability,Ethical Hacking and Music**
+- 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability, Ethical Hacking and Music**
 
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/paulinhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/paulinhx" height="30" width="40" /></a>
