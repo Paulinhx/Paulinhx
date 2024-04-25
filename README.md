@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on **Google IT Support Certification as Cybersecurity Analyst Student @Masterschool**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 🕹 I’m eager to collaborate **with creatives and developers**
 
