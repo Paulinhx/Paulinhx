@@ -13,7 +13,6 @@
 - 💬 Ask me about **Construction Materials, Graphic Design, UI/UX, Front-end development, Ecology, Sustainability, Ethical Hacking and Music**
 
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/paulinhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/paulinhx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/paulinhx-desbats-hylematiere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/paulinhx-desbats-hylematiere/" height="30" width="40" /></a>
 </p>
 
