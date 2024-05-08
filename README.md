@@ -2,11 +2,9 @@
 
 - 🔭 I’m working on **Google IT Support Certification as Cybersecurity Analyst Student @Masterschool**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity Analysis**
 
 - 🕹 I’m eager to collaborate **with creatives and developers**
-
-- 🤝 I’m looking for funds to develop further our Team Project WebApp helping refugees find easily local help with housing and social support at [Hope2Hand](https://github.com/hope2handteam)
 
 - 📟 All of my projects are available at [https://paulinhx.github.io/](https://paulinhx.github.io/)
 
