@@ -13,7 +13,7 @@
 - ✦ Cisco CCNA Professional Certificate: 🕒 Not started
 
 
-- 🕹 I’m eager to collaborate **with creatives and developers** I am passionate about **Ethical Hacking and Digital Health**
+- 🕹 I’m eager to collaborate **with creatives and developers**. I am passionate about **Ethical Hacking and Digital Health**!
 
 - 📟 Some selected design projects are available on [my website](https://paulinhx.github.io/)
 
