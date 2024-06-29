@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul+aka+Paulinhx.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
-- 🔭 I’m Student @Masterschool working on the 
-**✦ Google Technical Support Fundamentals 
-✦ Google IT Support Certificate 
-✦ Google Cybersecurity Professional Certificate 
-✦ CompTIA Security + Professional Certificate
-✦ Cisco CCNA Professional Certificate**
+- 🔭 I’m Student @Masterschool working on **
+✦ Google Technical Support Fundamentals Certificate:  ✅ Completed
+✦ Google IT Support Certificate:  ✅ Completed
+✦ Google Cybersecurity Professional Certificate: 🔄 In progress
+✦ CompTIA Security + Professional Certificate: 🔄 In progress
+✦ Cisco CCNA Professional Certificate: 🕒 Not started
 
 - 🌱 I’m currently learning **Cybersecurity Analysis**
 
