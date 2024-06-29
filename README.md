@@ -2,15 +2,15 @@
 
 - 🔭 I’m currently a **Cybersecurity Analyst Aspirant studying @Masterschool**  
 
-✦ Google Technical Support Fundamentals Certificate:  ✅ Completed  
+- ✦ Google Technical Support Fundamentals Certificate:  ✅ Completed  
 
-✦ Google IT Support Certificate:  ✅ Completed
+- ✦ Google IT Support Certificate:  ✅ Completed
 
-✦ Google Cybersecurity Professional Certificate: 🔄 In progress
+- ✦ Google Cybersecurity Professional Certificate: 🔄 In progress
 
-✦ CompTIA Security + Professional Certificate: 🔄 In progress
+- ✦ CompTIA Security + Professional Certificate: 🔄 In progress
 
-✦ Cisco CCNA Professional Certificate: 🕒 Not started
+- ✦ Cisco CCNA Professional Certificate: 🕒 Not started
 
 
 - 🕹 I’m eager to collaborate **with creatives and developers**
