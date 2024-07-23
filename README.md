@@ -6,7 +6,7 @@
 
 - ✦ Google IT Support Certificate:  ✅ Completed
 
-- ✦ Google Cybersecurity Professional Certificate: 🔄 In progress
+- ✦ Google Cybersecurity Professional Certificate: ✅ Completed
 
 - ✦ CompTIA Security + Professional Certificate: 🔄 In progress
 
