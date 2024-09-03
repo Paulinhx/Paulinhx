@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge.
 
-- 💬 Ask me about **Construction Materials, UI/UX, Front-end development,Sustainability, Ethical Hacking and Music**
+- 💬 Ask me about **Cybersecurity, Front-end development, Sustainability, Ethical Hacking and Music**
 
 
 
