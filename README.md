@@ -2,7 +2,7 @@
 
  🔭 I’m currently a **Cybersecurity Analyst | CompTIA Sec+ Certified | Web Developer | Engaged in Sustainable Development | Nurtured by Music and Arts**  
 
-**CERTIFICATES:**
+**COMPLETED CERTIFICATIONS:**
 
 - Google Technical Support Fundamentals Certificate 
 
