@@ -1,14 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
- 🔭 I’m currently a **Cybersecurity Analyst Aspirant studying @Masterschool**  
+ 🔭 I’m currently a **Cybersecurity Analyst | CompTIA Sec+ Certified | Web Developer | Engaged in Sustainable Development | Nurtured by Music and Arts**  
 
-- Google Technical Support Fundamentals Certificate:  ✅ Completed  
+**CERTIFICATES**
 
-- Google IT Support Certificate:  ✅ Completed
+- Google Technical Support Fundamentals Certificate 
 
-- Google Cybersecurity Professional Certificate: ✅ Completed
+- Google IT Support Certificate
 
-- CompTIA Security + Professional Certificate: ✅ Completed
+- Google Cybersecurity Professional Certificate
+
+- CompTIA Security + Professional Certificate
 
 
 - 🕹 I’m eager to collaborate **with creatives and developers**. I am passionate about **Ethical Hacking and Digital Health**!
