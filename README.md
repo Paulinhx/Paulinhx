@@ -2,6 +2,8 @@
 
  🔭 I’m currently a **Cybersecurity Analyst | CompTIA Sec+ Certified | Web Developer | Engaged in Sustainable Development | Nurtured by Music and Arts**  
 
+Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
+
 **COMPLETED CERTIFICATIONS 2024:**
 
 - Google Technical Support Fundamentals Certificate 
