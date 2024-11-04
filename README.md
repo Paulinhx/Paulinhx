@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=8DE63B&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code+!)](https://git.io/typing-svg)
 
- 🔭 I’m currently a **Cybersecurity Analyst | CompTIA Sec+ Certified | Web Developer | Engaged in Sustainable Development | Nurtured by Music and Arts**  
-
 Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
 
 **COMPLETED CERTIFICATIONS in 2024:**
