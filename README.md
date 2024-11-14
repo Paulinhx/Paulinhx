@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code!)](https://git.io/typing-svg)
 
-Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
+📚 Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
 
-**COMPLETED CERTIFICATIONS in 2024:**
+** 🔒 COMPLETED CERTIFICATIONS in 2024:**
 
 - Google Technical Support Fundamentals Certificate 
 
@@ -14,7 +14,7 @@ Specializing in Open Source Intelligence (OSINT), focused on developing people-c
 
 _________________________________________________________________________________________________________________________________
 
-- 🕹 I’m eager to collaborate **with creatives and developers**. I am passionate about **Ethical Hacking and Digital Health**!
+- 🚲 I’m eager to collaborate **with creatives and developers**. I am passionate about **Ethical Hacking and Digital Health**!
 
 - 📟 Some selected design projects are available on [my website](https://paulinhx.github.io/)
 
