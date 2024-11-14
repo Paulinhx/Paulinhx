@@ -22,6 +22,7 @@ ________________________________________________________________________________
 
 - 💬 Ask me about **Cybersecurity, Front-end development, Sustainability, Ethical Hacking and Music**
 
+![GoldenVoyager](https://github.com/user-attachments/assets/97eae741-f14f-44bb-b1c0-33d9147434c5)
 
 
 
