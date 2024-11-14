@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code!)](https://git.io/typing-svg)
 
 Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
 
