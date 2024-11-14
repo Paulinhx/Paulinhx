@@ -2,7 +2,7 @@
 
 📚 Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
 
-** 🔒 COMPLETED CERTIFICATIONS in 2024:**
+**🔒 COMPLETED CERTIFICATIONS in 2024: 🔑**
 
 - Google Technical Support Fundamentals Certificate 
 
