@@ -22,9 +22,11 @@ ________________________________________________________________________________
 
 - 💬 Ask me about **Cybersecurity, Front-end development, Sustainability, Ethical Hacking and Music**
   
+***SOCIALS:***
+[![github](https://github.com/user-attachments/assets/80995f1e-8bd4-4956-972b-272371121724)](https://github.com/Paulinhx/) ;
 
-[![github](https://github.com/user-attachments/assets/80995f1e-8bd4-4956-972b-272371121724)](https://github.com/Paulinhx/) 
-[![medium](https://github.com/user-attachments/assets/d092d42b-a1f5-4d82-91ed-6fedb7a95ad2)](https://medium.com/@Paulinhx/) 
+[![medium](https://github.com/user-attachments/assets/d092d42b-a1f5-4d82-91ed-6fedb7a95ad2)](https://medium.com/@Paulinhx/) ;
+
 [![linkedin](https://github.com/user-attachments/assets/2ec2bb1f-513f-4e52-a59d-40c83fa814aa)](https://linkedin.com/in/pauldesbats/)
 _________________________________________________________________________________________________________________________________
 
