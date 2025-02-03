@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code+to+Build+Secure+and+Sustainable+Digital+Solutions!)](https://git.io/typing-svg)
 
 <!--# <span style="color:green;">Hi, I'm Paul! 👨‍💻🚀</span>-->
-
-**...to Build Secure and Sustainable Digital Solutions.**
-
 ---
 
 ### 🌍 About Me
@@ -21,7 +18,6 @@
 🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics  
 ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD 
 📜 Compliance & Security: ISO, GDPR, DevSecOps, SOC 2
-
 
 ---
 
