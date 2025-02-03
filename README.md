@@ -16,8 +16,8 @@
 💻 **Programming:** Python, JavaScript, TypeScript, Bash  
 🌐 **Web Development:** React, Next.js, Tailwind CSS  
 🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics  
-☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD 
-📜 Compliance & Security: ISO, GDPR, DevSecOps, SOC 2
+☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD    
+📜 **Compliance & Security**: ISO, GDPR, DevSecOps, SOC 2
 
 ---
 
