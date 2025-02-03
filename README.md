@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+I+'m+Paul.;I+Design+and+Code+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+I'm+Paul.;I+Design+&+Code!)](https://git.io/typing-svg)
 
 <!--# <span style="color:green;">Hi, I'm Paul! 👨‍💻🚀</span>-->
 ---
