@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi,+I'm+Paul.;I+Design+and+Code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi,+I'm+Paul.;I+Design+and+Code!)
 
 <!--# <span style="color:green;">Hi, I'm Paul! 👨‍💻🚀</span>-->
 ---
@@ -32,17 +32,22 @@
 
 ### ✍️ Writing & Research
 I write **simple and easy-to-understand** articles on cybersecurity, ethical hacking, and design.   
-📖 Read my latest work on **[Medium](https://medium.com/@Paulinhx)**  
+📖 Read my latest work on <a href="https://medium.com/@Paulinhx" target="_blank" rel="noreferrer"><strong>Medium</strong></a>
+ 
 
 ---
 
 ### 🔗 Certifications & Credentials
-🔗 Check out my certifications on **[LinkedIn](https://www.linkedin.com/in/pauldesbats/details/certifications/)**
+🔗 Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
+
+
 
 ---
 
 ### 📬 Let's Connect!
-📎 **Website:** [Cybersecurity Portfolio](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)  
+📎 **Website:** <a href="https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d" target="_blank" rel="noreferrer"><strong>Cybersecurity Portfolio</strong></a>
+
+
 
 
 💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
@@ -50,8 +55,6 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 
 _________________________________________________________________________________________________________________________________
 
-
-![GoldenVoyager](https://github.com/user-attachments/assets/97eae741-f14f-44bb-b1c0-33d9147434c5)
 
 
 
