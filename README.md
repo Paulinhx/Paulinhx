@@ -1,27 +1,57 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi%2C+my+name+is+Paul.;I+Design+and+Code!)](https://git.io/typing-svg)
 
-📚 Specializing in Open Source Intelligence (OSINT), focused on developing people-centered and sustainable solutions. I recently completed a rigorous program at Masterschool, where I collaborated with industry professionals on hands-on projects.
+<!--# <span style="color:green;">Hi, I'm Paul! 👨‍💻🚀</span>-->
 
-**🔑 COMPLETED CERTIFICATIONS in 2024:**
+**...to Build Secure and Sustainable Digital Solutions.**
 
-- Google Technical Support Fundamentals Certificate 
+---
 
-- Google IT Support Certificate
+### 🌍 About Me
+🔹 Cybersecurity Analyst & Software Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, and **Sustainable Tech Solutions**.  
+🔹 Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
+🔹 Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
 
-- Google Cybersecurity Professional Certificate
+💡 Always open to **collaborations** and **knowledge-sharing**!  
 
-- CompTIA Security + Professional Certificate
+---
 
-_________________________________________________________________________________________________________________________________
+### 🛠️ Tech Stack
+💻 **Programming:** Python, JavaScript, TypeScript, Bash  
+🌐 **Web Development:** React, Next.js, Tailwind CSS  
+🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics  
+☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD 
+📜 Compliance & Security: ISO, GDPR, DevSecOps, SOC 2
 
-- 🚲 I’m eager to collaborate **with creatives and developers**. I am passionate about **Ethical Hacking and Digital Health**!
 
-- 📟 Some selected design projects are available on [my website](https://paulinhx.github.io/)
+---
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@Paulinhx) simple and easy to understand, even for anyone with limited technical knowledge.
+<!--### 📂 Featured Projects
+🚀 **[Project Name 1](https://github.com/yourproject)** – A cybersecurity tool for OSINT data analysis.  
+🔍 **[Project Name 2](https://github.com/yourproject)** – A web app focused on ethical hacking simulations.  
+💡 **[Project Name 3](https://github.com/yourproject)** – A sustainable software engineering initiative.  
 
-- 💬 Ask me about **Cybersecurity, Front-end development, Sustainability, Ethical Hacking and Music**
-  
+*(Check out more on my GitHub Repositories!)*
+
+--- -->
+
+### ✍️ Writing & Research
+I write **simple and easy-to-understand** articles on cybersecurity, ethical hacking, and design.   
+📖 Read my latest work on **[Medium](https://medium.com/@Paulinhx)**  
+
+---
+
+### 🔗 Certifications & Credentials
+🔗 Check out my certifications on **[LinkedIn]([https://www.linkedin.com/in/pauldesbats/details/certifications/])**
+
+---
+
+### 📬 Let's Connect!
+📎 **Website:** [Cybersecurity Portfolio](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)  
+
+
+💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
+
+
 _________________________________________________________________________________________________________________________________
 
 
