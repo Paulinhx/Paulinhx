@@ -47,6 +47,7 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 ### 📬 Let's Connect!
 📎 **Website:** <a href="https://paulinhx.github.io/index.html" target="_blank" rel="noreferrer"><strong>Cybersecurity Portfolio</strong></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/PaulD..png" alt="Your Image Badge" />
 
 
 💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
