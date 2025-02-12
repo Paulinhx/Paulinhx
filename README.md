@@ -45,8 +45,9 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 ---
 
 ### 📬 Let's Connect!
-📎 **Website:** <a href="https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d" target="_blank" rel="noreferrer"><strong>Cybersecurity Portfolio</strong></a>
+📎 **Website:** <a href="https://paulinhx.github.io/index.html" target="_blank" rel="noreferrer"><strong>Cybersecurity Portfolio</strong></a>
 
+![TryHackMe Profile](![TryHackMe Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2975250)
 
 
 
