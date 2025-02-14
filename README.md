@@ -47,7 +47,7 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 ### 📬 Let's Connect on THM!
 
 <a href="https://tryhackme.com/p/PaulD." target="_blank" rel="noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/PaulD..png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PaulD..png" alt="Your Image Badge" />
 </a>
 
 
