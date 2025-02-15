@@ -1,12 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi,+I'm+Paul.;I+Design+and+Code!)
 
-<!--# <span style="color:green;">Hi, I'm Paul! 👨‍💻🚀</span>-->
 ---
 
-### 🌍 About Me
-🔹 Cybersecurity Analyst & Software Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, and **Sustainable Tech Solutions**.  
-🔹 Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
-🔹 Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
+###  About Me
+-  Cybersecurity Analyst & Software Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, and **Sustainable Tech Solutions**.  
+-  Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
+-  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
 
 💡 Always open to **collaborations** and **knowledge-sharing**!  
 
