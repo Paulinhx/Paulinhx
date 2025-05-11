@@ -37,7 +37,7 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 ---
 
 ### 🔗 Certifications & Credentials
-🔗 Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
+ Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
 
 
 
