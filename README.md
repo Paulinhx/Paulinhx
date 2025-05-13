@@ -1,6 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi,+I'm+Paul.;I+Design+and+Code!)
 
 ---
+
 -  Security Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, Cloud security, Software engineering, Architecture and **Sustainable Tech Solutions**.  
 -  Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
 -  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
