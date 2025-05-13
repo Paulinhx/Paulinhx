@@ -3,7 +3,7 @@
 ---
 
 ###  About Me
--  Cybersecurity Analyst & Software Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, and **Sustainable Tech Solutions**.  
+-  Security Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, Cloud security, Software engineering, Architecture and **Sustainable Tech Solutions**.  
 -  Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
 -  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
 
