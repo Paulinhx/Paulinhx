@@ -12,11 +12,11 @@
 ---
 
 ### 🛠️ Tech Stack
-💻 **Programming:** Python, JavaScript, TypeScript, Bash  
-🌐 **Web Development:** React, Next.js, Tailwind CSS  
-🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics  
-☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD    
-📜 **Compliance & Security**: ISO, GDPR, DevSecOps, SOC 2
+💻 **Programming:** CSS, HTML, Python, JavaScript, TypeScript, Bash, SQL, BASIC (...)  
+🌐 **Web Development & Design:** React, Next.js, Node, Locofy.ai, Figma 
+🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics, Cloud security 
+☁️ **Cloud & DevSecOps:** AWS, Azure, Docker, Kubernetes, CI/CD, SAST/DAST, GitHub Actions   
+📜 **Compliance & Security**: ISO 27001, GDPR, SOC2, AI EU Act
 
 ---
 
@@ -30,7 +30,7 @@
 --- -->
 
 ### ✍️ Writing & Research
-I write **simple and easy-to-understand** articles on cybersecurity, ethical hacking, and design.   
+I write and curate articles on cybersecurity, ethical hacking, and design.   
 📖 Read my latest work on <a href="https://medium.com/@Paulinhx" target="_blank" rel="noreferrer"><strong>Medium</strong></a>
  
 
@@ -48,12 +48,6 @@ I write **simple and easy-to-understand** articles on cybersecurity, ethical hac
 
 
 _________________________________________________________________________________________________________________________________
-
-
-
-
-
-
 
 
 
