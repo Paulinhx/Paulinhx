@@ -11,10 +11,14 @@
 ---
 
 ### 🛠️ Tech Stack
-💻 **Programming:** CSS, HTML, Python, JavaScript, TypeScript, Bash, SQL, BASIC (...)  
+💻 **Programming:** CSS, HTML, Python, JavaScript, TypeScript, Bash, SQL, BASIC ( ... ) 
+ 
 🌐 **Web Development & Design:** React, Next.js, Node, Locofy.ai, Figma 
+
 🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics, Cloud security 
+
 ☁️ **Cloud & DevSecOps:** AWS, Azure, Docker, Kubernetes, CI/CD, SAST/DAST, GitHub Actions   
+
 📜 **Compliance & Security**: ISO 27001, GDPR, SOC2, AI EU Act
 
 ---
