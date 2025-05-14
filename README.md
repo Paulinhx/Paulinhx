@@ -19,7 +19,7 @@
 
 ☁️ **Cloud & DevSecOps:** AWS, Azure, Docker, Kubernetes, CI/CD, SAST/DAST, GitHub Actions   
 
-📜 **Compliance & Security**: ISO 27001, GDPR, SOC2, AI EU Act
+📜 **Compliance & Security**: ISO 27001, GDPR, SOC2, EU AI Act
 
 ---
 
