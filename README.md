@@ -15,7 +15,7 @@
  
 🌐 **Web Development & Design:** React, Next.js, Node, Locofy.ai, Figma 
 
-🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics, Cloud security 
+🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics, Quantum Cryptography
 
 ☁️ **Cloud & DevSecOps:** AWS, Azure, Docker, Kubernetes, CI/CD, SAST/DAST, GitHub Actions   
 
