@@ -38,11 +38,6 @@ I write and curate articles on cybersecurity, ethical hacking, and design.
 
 ---
 
-### 🔗 Certifications & Credentials
- Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
-
----
-
 
 💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
 
