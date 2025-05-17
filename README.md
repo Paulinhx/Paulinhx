@@ -32,18 +32,14 @@
 
 ---
 
---- -->
-
 ### ✍️ Writing & Research
 I write and curate articles on cybersecurity, ethical hacking, and design.   
 📖 Read my latest work on <a href="https://medium.com/@Paulinhx" target="_blank" rel="noreferrer"><strong>Medium</strong></a>
- 
 
 ---
 
 ### 🔗 Certifications & Credentials
  Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
-
 
 ---
 
