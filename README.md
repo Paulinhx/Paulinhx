@@ -2,8 +2,19 @@
 
 ---
 
--  Security Engineer specializing in **Open Source Intelligence (OSINT)**, Ethical Hacking, Cloud security, Software engineering, Architecture and **Sustainable Tech Solutions**.  
--  Passionate about **Threat Detection & Defense, Risk & Compliance, and Digital Health**.  
+## 🛡️ Cybersecurity Portfolio
+
+I'm a certified Security+ Analyst and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. My portfolio highlights:
+
+- 🔐 **DevSecOps Pipeline Implementation** – Integrating security automation within CI/CD workflows on AWS
+- 🧪 Vulnerability assessments and penetration testing
+- ☁️ Cloud security assessments 
+- 🐞 Custom scripts for vulnerability scanning and policy enforcement
+- 📜 Certifications and THM training walkthroughs
+
+👉 **[View Full Portfolio on Notion](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)**
+  
+-  Passionate about **Threat Detection & Defense, Risk & Compliance,and Digital Health**.  
 -  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
 
 💡 Always open to **collaborations** and **knowledge-sharing**!  
@@ -23,13 +34,6 @@
 
 ---
 
-<!--### 📂 Featured Projects
-🚀 **[Project Name 1](https://github.com/yourproject)** – A cybersecurity tool for OSINT data analysis.  
-🔍 **[Project Name 2](https://github.com/yourproject)** – A web app focused on ethical hacking simulations.  
-💡 **[Project Name 3](https://github.com/yourproject)** – A sustainable software engineering initiative.  
-
-*(Check out more on my GitHub Repositories!)*
-
 --- -->
 
 ### ✍️ Writing & Research
@@ -41,7 +45,6 @@ I write and curate articles on cybersecurity, ethical hacking, and design.
 
 ### 🔗 Certifications & Credentials
  Check out my certifications on <a href="https://www.linkedin.com/in/pauldesbats/details/certifications/" target="_blank" rel="noreferrer"><strong>LinkedIn</strong></a>
-
 
 
 ---
