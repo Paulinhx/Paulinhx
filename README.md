@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a certified Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. My portfolio highlights:
+## Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. My portfolio highlights:
 
 - 🔐 **DevSecOps Pipeline Implementation** – Integrating security automation within CI/CD workflows on AWS
 - 🧪 Vulnerability assessments and penetration testing
