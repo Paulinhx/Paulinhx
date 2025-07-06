@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&multiline=true&width=800&height=60&lines=Hi,+I'm+Paul.;I+Design+and+Code!)
-
----
 
 ## Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. My portfolio highlights:
 
