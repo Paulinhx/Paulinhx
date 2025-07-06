@@ -12,7 +12,7 @@
 
 👉 **[View Full Portfolio on Notion](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PaulD..png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/PaulD..png" href=https://tryhackme.com/p/PaulD. alt="Your Image Badge" />
 
   
 -  Passionate about **Threat Detection & Defense, Risk & Compliance,and Digital Health**.  
