@@ -3,9 +3,9 @@
 
 ## My portfolio highlights:
 
--  **DevSecOps Pipeline Implementation** – Integrating security automation within CI/CD workflows on AWS
+- DevSecOps Pipeline Implementation – Integrating security automation within CI/CD workflows on AWS
 - Vulnerability assessments and penetration testing
-- ☁Cloud security assessments 
+- Cloud security assessments 
 - Custom scripts for vulnerability scanning and policy enforcement
 - Certifications and THM training walkthroughs
 
