@@ -1,19 +1,15 @@
 
-## Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. My portfolio highlights:
+## Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. 
 
-- 🔐 **DevSecOps Pipeline Implementation** – Integrating security automation within CI/CD workflows on AWS
-- 🧪 Vulnerability assessments and penetration testing
-- ☁️ Cloud security assessments 
-- 🐞 Custom scripts for vulnerability scanning and policy enforcement
-- 📜 Certifications and THM training walkthroughs
+## My portfolio highlights:
+
+-  **DevSecOps Pipeline Implementation** – Integrating security automation within CI/CD workflows on AWS
+- Vulnerability assessments and penetration testing
+- ☁Cloud security assessments 
+- Custom scripts for vulnerability scanning and policy enforcement
+- Certifications and THM training walkthroughs
 
 👉 **[View Full Portfolio on Notion](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)**
-
-  
--  Passionate about **Threat Detection & Defense, Risk & Compliance,and Digital Health**.  
--  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
-
-💡 Always open to **collaborations** and **knowledge-sharing**!  
 
 ---
 
@@ -36,6 +32,8 @@ I write and curate articles on cybersecurity, ethical hacking, and design.
 
 ---
 
+-  Passionate about **Threat Detection & Defense, Risk & Compliance,and Digital Health**.  
+-  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
 
 💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
 
