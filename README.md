@@ -1,45 +1,61 @@
+## Security Engineer | Ethical Hacker | Designer
 
-## Security and software engineer with a strong focus on ethical hacking, DevSecOps, and sustainable digital solutions. 
+I design and secure systems across cloud, code, and containers — 
+automating defense, breaking assumptions, and building trust by default at the junction of entropy and architecture, crafting digital forests and oceans beneath clouds and code.  
 
-## My portfolio highlights:
-
-- DevSecOps Pipeline Implementation – Integrating security automation within CI/CD workflows on AWS
-- Vulnerability assessments and penetration testing
-- Cloud security assessments 
-- Custom scripts for vulnerability scanning and policy enforcement
-- Certifications and THM training walkthroughs
-
-👉 **[View Full Portfolio on Notion](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)**
 
 ---
 
-### 🛠️ Tech Stack
-💻 **Programming:** CSS, HTML, Python, JavaScript, TypeScript, Bash, SQL, BASIC ( ... ) 
- 
-🌐 **Web Development & Design:** React, Next.js, Node, Locofy.ai, Figma 
+### ⚙️ Core Domains
 
-🔒 **Cybersecurity:** OSINT, Ethical Hacking, Digital Forensics, Quantum Cryptography
+- **DevSecOps:** Embedded security across CI/CD (AWS, Azure, GitHub Actions)  
+- **Offensive Security:** Vulnerability assessments, custom tooling, red team automation  
+- **Cloud Security:** Secure architecture reviews, container hardening, IAM strategy  
+- **Detection Engineering:** Threat modeling, log analysis, custom rules & alerts  
+- **Governance:** Policy enforcement, compliance (ISO 27001, SOC 2, EU AI Act)
 
-☁️ **Cloud & DevSecOps:** AWS, Azure, Docker, Kubernetes, CI/CD, SAST/DAST, GitHub Actions   
-
-📜 **Compliance & Security**: ISO 27001, GDPR, SOC2, EU AI Act
-
----
-
-### ✍️ Writing & Research
-I write and curate articles on cybersecurity, ethical hacking, and design.   
-📖 Read my latest work on <a href="https://medium.com/@Paulinhx" target="_blank" rel="noreferrer"><strong>Medium</strong></a>
+👉 [**View Full Portfolio**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
 
 ---
 
--  Passionate about **Threat Detection & Defense, Risk & Compliance,and Digital Health**.  
--  Strong advocate for **ethical hacking, cybersecurity awareness, and open-source contributions**.  
+### 🧪 Tech Stack
 
-💬 *Feel free to reach out for collaborations, discussions, or just to say hi!* 
+**Security**  
+🛠️ Nmap, Burp Suite, Wireshark, Metasploit, BloodHound, Osquery  
+🔍 Sigma, YARA, Suricata, Zeek, Velociraptor, Alien Vault OTX  
+📦 SAST/DAST (Semgrep, SonarQube), Threat Modeling (OWASP, MITRE, STRIDE)
 
+**Cloud & Infrastructure**  
+☁️ AWS (IAM, GuardDuty, Security Hub), Azure Defender
+🌀 Docker, Kubernetes, Terraform, Ansible  
+🔁 GitHub Actions, GitLab CI, OPA, HashiCorp Vault
 
-_________________________________________________________________________________________________________________________________
+**Software Engineering**  
+💻 Python, TypeScript, JavaScript, Bash, SQL  
+⚛️ React, Next.js, Node.js  
+🎨 CSS, HTML, Figma, Locofy.ai, Notion
 
+**Data & Automation**  
+📊 JSON, YAML, Regex, API design, scripting for automation & security
+
+---
+
+### ✍️ Writings 
+
+Fragments — design, forensics, philosophy, and cybernetic futures.  
+📖 [**Medium: @Paulinhx**](https://medium.com/@Paulinhx)
+
+---
+
+### 🧭 Philosophy
+
+- Secure by design, not by patch  
+- Ethics before tools  
+- Free software is sovereign software  
+
+> *“To defend a system, you must understand what it dreams of becoming.”*
+
+💬 Let’s connect — collabs, audits, or make music!
 
 
 
