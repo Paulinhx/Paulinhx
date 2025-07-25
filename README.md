@@ -13,7 +13,7 @@ I design and secure systems across cloud, code, and containers, automating defen
 - **Detection Engineering:** Threat modeling, log analysis, custom rules & alerts  
 - **Governance:** Policy enforcement, compliance (ISO 27001, SOC 2, EU AI Act)
 
-👉 [**View Full Portfolio**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
+ [**View Full Portfolio**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
 
 ---
 
@@ -39,14 +39,14 @@ I design and secure systems across cloud, code, and containers, automating defen
 
 ---
 
-### ✍️ Writings 
+### Writings 
 
 Fragments — design, forensics, philosophy, and cybernetic futures.  
 📖 [**Medium: @Paulinhx**](https://medium.com/@Paulinhx)
 
 ---
 
-### 🧭 Philosophy
+### Philosophy
 
 - Secure by design, not by patch  
 - Ethics before tools  
@@ -54,7 +54,7 @@ Fragments — design, forensics, philosophy, and cybernetic futures.
 
 > *“To defend a system, you must understand what it dreams of becoming.”*
 
-💬 Let’s connect — collabs, audits, or make music!
+Let’s connect — collabs, audits, or make music!
 
 
 
