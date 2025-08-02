@@ -7,7 +7,7 @@ I design and secure systems across cloud, code, and containers, automating defen
 
 ### Core Domains
 
-- **DevSecOps:** Embedded security across CI/CD (AWS, Azure,(...) GitHub Actions)  
+- **DevSecOps:** Embedded security across CI/CD (AWS, Azure, GitHub Actions)  
 - **Offensive Security:** Vulnerability assessments, custom tooling, red team automation  
 - **Cloud Security:** Secure architecture reviews, container hardening, IAM strategy  
 - **Detection Engineering:** Threat modeling, log analysis, custom rules & alerts  
