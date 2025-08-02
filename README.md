@@ -11,7 +11,7 @@ I design and secure systems across cloud, code, and containers, automating defen
 - **Offensive Security:** Vulnerability assessments, custom tooling, red team automation  
 - **Cloud Security:** Secure architecture reviews, container hardening, IAM strategy  
 - **Detection Engineering:** Threat modeling, log analysis, custom rules & alerts  
-- **Governance:** Policy enforcement, compliance (ISO 27001, SOC 2, EU AI Act)
+- **Governance:** Policy enforcement, compliance (ISO 27001, SOC 2, GDPR, EU AI Act)
 
  [**View Full Portfolio**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
 
@@ -20,8 +20,8 @@ I design and secure systems across cloud, code, and containers, automating defen
 ### Tech Stack
 
 **Security**  
-🛠️ Nmap, Burp Suite, Wireshark, Metasploit, BloodHound, Osquery  
-🔍 Sigma, YARA, Suricata, Zeek, Velociraptor, Alien Vault OTX  
+🛠️ Nmap, Burp Suite, Wireshark, Metasploit, Splunk, Osquery  
+🔍 Sigma, YARA, Suricata, Zeek, Alien Vault OTX  
 📦 SAST/DAST (Semgrep, SonarQube), Threat Modeling (OWASP, MITRE, STRIDE)
 
 **Cloud & Infrastructure**  
