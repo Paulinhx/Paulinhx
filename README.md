@@ -25,7 +25,7 @@ I design and secure systems across cloud, code, and containers, automating defen
 - Experience with SIEM, IDS/IPS, EDR, and threat intelligence platforms  
 - Hands-on with tools like Nmap, Burp Suite, Wireshark, Splunk, Osquery, Snort, Suricata, Zeek, Sigma, and YARA  
 
-### ☁Cloud & Infrastructure Security  
+### Cloud & Infrastructure Security  
 - Designing and securing multi-cloud environments (AWS, GCP, Azure, OVH)  
 - Infrastructure as Code & DevSecOps: Docker · Terraform · Ansible · GitHub Actions · GitLab CI  
 - Secrets and policy management with HashiCorp Vault & OPA  
@@ -40,7 +40,7 @@ I design and secure systems across cloud, code, and containers, automating defen
 - Designing APIs securely and working with JSON, YAML, and Regex  
 - Integrating security tools into CI/CD pipelines for continuous monitoring  
 
-> 💡 **Mindset:** Tools evolve, threats change — I focus on **principles**, **domain expertise**, and **adaptability** to learn any stack quickly.
+> **Mindset:** Tools evolve, threats change — I focus on **principles**, **domain expertise**, and **adaptability** to learn any stack quickly.
 
 ---
 
