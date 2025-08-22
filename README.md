@@ -17,25 +17,30 @@ I design and secure systems across cloud, code, and containers, automating defen
 
 ---
 
-### Tech Stack
+## Tech Expertise
 
-**Security**  
-🛠️ Nmap, Burp Suite, Wireshark, Splunk, Osquery, Snort, Aikido, THIRDhub...
-🔍 Sigma, YARA, Suricata, Zeek, Alien Vault OTX...  
-📦 SAST/DAST (Semgrep, SonarQube), Threat Modeling (OWASP, MITRE, STRIDE)...
+### Security Engineering & Threat Detection  
+- Vulnerability assessment, threat modeling, and exploit analysis  
+- Security monitoring, detection engineering, and incident response  
+- Experience with SIEM, IDS/IPS, EDR, and threat intelligence platforms  
+- Hands-on with tools like Nmap, Burp Suite, Wireshark, Splunk, Osquery, Snort, Suricata, Zeek, Sigma, and YARA  
 
-**Cloud & Infrastructure**  
-☁️ AWS (IAM, GuardDuty, Security Hub), Azure Defender, GCP, OVH Cloud...
-🌀 Docker, Terraform, Ansible...  
-🔁 GitHub Actions, GitLab CI, OPA (Open Policy Agent), HashiCorp Vault...
+### ☁Cloud & Infrastructure Security  
+- Designing and securing multi-cloud environments (AWS, GCP, Azure, OVH)  
+- Infrastructure as Code & DevSecOps: Docker · Terraform · Ansible · GitHub Actions · GitLab CI  
+- Secrets and policy management with HashiCorp Vault & OPA  
 
-**Software Engineering**  
-💻 Python, TypeScript, JavaScript, Bash, SQL... 
-⚛️ React, Next.js, Node.js...  
-🎨 CSS, HTML, Figma, Locofy.ai, Notion...
+### Secure Software Engineering  
+- Building secure backend & frontend systems with Python, TypeScript, JavaScript, SQL, and Bash  
+- Developing applications with React, Next.js, and Node.js  
+- Applying secure coding practices, SAST/DAST, and code review automation  
 
-**Data & Automation**  
-📊 JSON, YAML, Regex, API design, scripting for automation & security...
+### Data, Automation & APIs  
+- Automating security workflows using Python & Bash scripting  
+- Designing APIs securely and working with JSON, YAML, and Regex  
+- Integrating security tools into CI/CD pipelines for continuous monitoring  
+
+> 💡 **Mindset:** Tools evolve, threats change — I focus on **principles**, **domain expertise**, and **adaptability** to learn any stack quickly.
 
 ---
 
@@ -52,7 +57,6 @@ Fragments — design, forensics, philosophy, and cybernetic futures.
 - Ethics before tools  
 - Free software is sovereign software  
 
-> *“To defend a system, you must understand what it dreams of becoming.”*
 
 Let’s connect — collabs, audits, or make music!
 
