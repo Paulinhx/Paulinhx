@@ -20,14 +20,14 @@ I design and secure systems across cloud, code, and containers, automating defen
 ### Tech Stack
 
 **Security**  
-🛠️ Nmap, Burp Suite, Wireshark, Metasploit, Splunk, Osquery  
-🔍 Sigma, YARA, Suricata, Zeek, Alien Vault OTX  
-📦 SAST/DAST (Semgrep, SonarQube), Threat Modeling (OWASP, MITRE, STRIDE)
+🛠️ Nmap, Burp Suite, Wireshark, Splunk, Osquery, Snort, Aikido, THIRDhub (...)
+🔍 Sigma, YARA, Suricata, Zeek, Alien Vault OTX (...)  
+📦 SAST/DAST (Semgrep, SonarQube), Threat Modeling (OWASP, MITRE, STRIDE) (...)
 
 **Cloud & Infrastructure**  
-☁️ AWS (IAM, GuardDuty, Security Hub), Azure Defender
-🌀 Docker, Kubernetes, Terraform, Ansible  
-🔁 GitHub Actions, GitLab CI, OPA, HashiCorp Vault
+☁️ AWS (IAM, GuardDuty, Security Hub), Azure Defender, GCP, OVH Cloud (...)
+🌀 Docker, Terraform, Ansible  
+🔁 GitHub Actions, GitLab CI, OPA (Open Policy Agent), HashiCorp Vault
 
 **Software Engineering**  
 💻 Python, TypeScript, JavaScript, Bash, SQL  
