@@ -44,14 +44,6 @@ Fragments — design, forensics, philosophy, and cybernetic futures.
 
 ---
 
-## Philosophy  
-
-- Secure by design, not by patch  
-- Ethics before tools  
-- Free software is sovereign software  
-
----
-
 ### Connect  
 
 Audits · Collabs · Research · Music → Always open.
