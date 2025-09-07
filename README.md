@@ -14,25 +14,6 @@ and building trust by default. I work at the junction of entropy and architectur
 
 ---
 
-## Expertise  
-
-**DevSecOps & Cloud Security**  
-Securing AWS, GCP, Azure & OVH · CI/CD hardening · Container security · IAM strategy  
-
-**Detection Engineering**  
-Threat modeling · Log analysis · Custom detection rules · Incident response  
-
-**Offensive Security**  
-Vulnerability research · Red team tooling · Exploit development  
-
-**Secure Software Engineering**  
-Python · TypeScript · JavaScript · React · Next.js · Node.js · SAST/DAST  
-
-**Automation & APIs**  
-Python/Bash scripting · API design · JSON · YAML · Security automation  
-
-<sub>Hands-on experience with tools like: Nmap, Burp Suite, Wireshark, Splunk, Osquery, Snort, Suricata, Zeek, Sigma, YARA, HashiCorp Vault, OPA.</sub>
-
 [**View Full Portfolio →**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
 
 ---
