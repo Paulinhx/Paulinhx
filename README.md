@@ -1,4 +1,4 @@
-# Security Engineer | Ethical Hacker | Designer
+# Security Engineer | Consultant | Designer
 
 I design and secure systems across cloud, code, and containers; automating defenses, challenging assumptions, and building trust by default. I work at the junction of entropy and architecture, crafting living digital ecosystems.
 
