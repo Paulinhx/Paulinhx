@@ -1,6 +1,6 @@
 # Security Engineer | Consultant | Designer
 
-I design and secure systems across cloud, code, and containers; automating defenses, challenging assumptions, and building trust by default. I work at the junction of entropy and architecture, crafting living digital ecosystems.
+I design and secure systems; automating defenses, challenging assumptions, and building trust by default. I work at the junction of entropy and architecture, crafting living digital ecosystems.
 
 ---
 
@@ -14,13 +14,6 @@ I design and secure systems across cloud, code, and containers; automating defen
 ---
 
 [**View Full Portfolio →**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
-
----
-
-## Writings  
-
-Fragments — design, forensics, philosophy, and cybernetic futures.  
-[**Medium: @Paulinhx**](https://medium.com/@Paulinhx)
 
 ---
 
