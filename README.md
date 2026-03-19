@@ -13,13 +13,10 @@ I design and secure systems; automating defenses, challenging assumptions, and b
 
 ---
 
-[**View Full Portfolio →**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
+[**View Notion Portfolio→**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
 
 ---
 
-### Connect  
-
-Audits · Collabs · Research · Music → Always open.
 
 
 
