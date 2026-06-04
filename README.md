@@ -1,6 +1,6 @@
 # Security Engineer | Consultant | Designer
 
-I design and secure systems; automating defenses, challenging assumptions, and building trust by default. I work at the junction of entropy and architecture, crafting living digital ecosystems.
+Design and secure systems; automating defenses, challenging assumptions, and building trust by default. Work at the junction of entropy and architecture, crafting living digital ecosystems.
 
 ---
 
@@ -11,11 +11,7 @@ I design and secure systems; automating defenses, challenging assumptions, and b
 ![Secure Engineering](https://img.shields.io/badge/Secure_Software_Engineering-FF7F50?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Automation & APIs](https://img.shields.io/badge/Automation_&_APIs-DAA520?style=for-the-badge&logo=python&logoColor=black)
 
----
 
-[**View Notion Portfolio→**](https://gigantic-television-7bb.notion.site/Portfolio-1192d1dfab5680388422dac459a44b2d)
-
----
 
 
 
